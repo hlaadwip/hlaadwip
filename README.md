@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Hi there, I'm El👋<br><br>Computer Science Student  <br>Exploring Cybersecurity<br><br>Learning • Building • Growing
 
 

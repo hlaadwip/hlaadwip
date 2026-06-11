@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi there, I'm El👋<br><br>Computer Science Student  <br>Exploring Cybersecurity<br><br>Learning • Building • Growing
+Hi there, I'm El👋<br><br>Computer Science Student  <br>Exploring web development & Cybersecurity<br><br>Learning • Building • Growing
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi there, I'm El👋<br><br>Computer Science Student  <br>Focused on Software Development, Interested in Cybersecurity<br><br>Learning • Building • Growing
+Hi there, I'm El👋<br><br>Computer Science Student  <br>Focused on Software Development & Cybersecurity<br><br>Learning • Building • Growing
 
 
 ## 🌐 Socials:

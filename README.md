@@ -17,7 +17,3 @@ Hi there, I'm El👋<br><br>Computer Science Student  <br>Exploring Cybersecurit
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/hlaadwip/hlaadwip/snake-output/snake.svg" alt="Snake animation" />
-
-###
